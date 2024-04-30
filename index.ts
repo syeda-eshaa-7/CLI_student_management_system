@@ -3,7 +3,7 @@
 import inquirer from "inquirer"
 import chalk from "chalk"
 
-console.log(chalk.bold.blue(`********************** wellcome to the student managing system ************** `));
+console.log(chalk.bold.blue(`********************** wellcome to the student management system ************** `));
 
 
    
